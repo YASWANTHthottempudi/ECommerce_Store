@@ -13,7 +13,7 @@ This is a full-stack e-commerce platform specializing in gaming products, design
 - ✅ **Modern Tech Stack**: MERN (MongoDB, Express.js, React, Node.js) with TypeScript
 - ✅ **Production-Ready Features**: JWT authentication, error handling, input validation
 - ✅ **Containerization**: Docker support for easy deployment and scalability
-- ✅ **Best Practices**: Clean code, separation of concerns, RESTful APIs
+
 
 ---
 
